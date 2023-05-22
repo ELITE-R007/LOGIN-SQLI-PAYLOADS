@@ -29,7 +29,7 @@
 '''''''''''''UNION SELECT '2
 %00
 /*…*/ 
-+		addition, concatenate (or space in url)
+addition, concatenate (or space in url)
 ||		(double pipe) concatenate
 %		wildcard attribute indicator
 
